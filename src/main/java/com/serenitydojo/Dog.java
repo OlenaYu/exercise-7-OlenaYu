@@ -32,6 +32,6 @@ public class Dog extends Pet {
 
     @Override
     public String play() {
-        return "plays with bone";
+        return "plays with bone";}
     }
-}
+
